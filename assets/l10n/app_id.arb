@@ -1,0 +1,9 @@
+{
+    "home":"Home",
+    "notification":"Notification",
+    "profile":"Profile",
+    "cancel":"Cancel",
+    "close":"CLOSE",
+    "search":"Search airports or city name",
+    "unknownError":"Unknown Error"
+}
